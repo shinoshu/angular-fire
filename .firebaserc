@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ca-shinozaki-test": {
+      "hosting": {
+        "angular-fire": [
+          "ca-shinozaki-test"
+        ]
+      }
+    }
+  }
+}
